@@ -4,7 +4,7 @@
 
 # <div align="center"><b><i>technologies</i></b></div>
 
-<div align="center">html, css, javascript, java, python</div>
+<div align="center">html, css, javascript, java, python, flutter, dart</div>
 
 # <div align="center"><b><i>music</i></b></div>
 &nbsp;<div align="center">
