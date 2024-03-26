@@ -1,10 +1,10 @@
 # <div align="center"><b><i>vinny</i></b></div>
 
-<div align="center">im a sophomore at cornell</div>
+<div align="center">im a first-gen sophomore at cornell</div>
 
 # <div align="center"><b><i>technologies</i></b></div>
 
-<div align="center">ocaml, javascript, java, python, flutter, react</div>
+<div align="center">react, nextjs, tailwind, javascript, java, python, flutter,  ocaml</div>
 
 # <div align="center"><b><i>music</i></b></div>
 &nbsp;<div align="center">
