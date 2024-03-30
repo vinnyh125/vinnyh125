@@ -1,4 +1,4 @@
-# <div align="center"><b><i>vinny</i></b></div>
+# <div align="center"><b><i><a href="https://vinnyh125.github.io/" target="_blank">vinny</a></i></b></div>
 
 <div align="center">im a first-gen sophomore at cornell</div>
 
