@@ -4,7 +4,7 @@
 
 # <div align="center"><b><i>relevant coursework</i></b></div>
 
-<div align="center">algo, ml, cv, discrete, oop, functional programming
+<div align="center">algo, cv, discrete, oop, functional programming
 
 # <div align="center"><b><i>technologies</i></b></div>
 
