@@ -2,6 +2,10 @@
 
 <div align="center">im a first-gen sophomore at cornell</div>
 
+# <div align="center"><b><i>relevant coursework</i></b></div>
+
+<div align="center">algo, ml, cv, discrete, oop, functional programming
+
 # <div align="center"><b><i>technologies</i></b></div>
 
 <div align="center">react, nextjs, tailwind, javascript, java, python, flutter,  ocaml</div>
