@@ -1,6 +1,6 @@
 # <div align="center"><b><i><a href="https://vinnyh125.github.io/" target="_blank">vinny</a></i></b></div>
 
-<div align="center">im a first-gen sophomore at cornell</div>
+<div align="center">im a sophomore studying cs, aas & hist @ cornell</div>
 
 # <div align="center"><b><i>relevant coursework</i></b></div>
 
